@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/background1.jpg);
+}
+
+#h1{
+    color:tomato
+}
+
+#pre1{
+    color: tomato;
+}
+
+#h2{
+    color:mistyrose
+}
+
+#ul1{
+    color:mistyrose
+}
+
+h5{
+    color:mistyrose
+}
+
+#main{
+    color:mistyrose
+}
+
+.des{
+    display:block;
+    margin:auto;
+}

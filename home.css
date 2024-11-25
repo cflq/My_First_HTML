@@ -1,0 +1,22 @@
+body{
+    background-image: url(pages/images/background2.jpg);
+    background-position: 50%;
+    background-size: cover;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(47, 0, 85);
+    padding: 0px;
+    margin: 0px;
+}
+.navbar a{
+    color:rgb(0, 170, 255);
+    text-decoration: none;
+    padding: 15px;
+    display:block;
+    text-align:center;
+}
+.navbar a:hover{
+    background-color: rgb(127, 47, 255);
+}
